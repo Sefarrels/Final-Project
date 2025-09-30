@@ -55,13 +55,8 @@ Aplikasi Streamlit untuk merekomendasikan film Netflix dan chat dengan AI seputa
 
 ---
 
-## Kustomisasi
-- **Ganti logo**: ganti `images/netflix_logo.png`
-- **Edit tema**: ubah `.streamlit/config.toml`
-- **Edit dataset**: ganti/ubah `netflix.csv`
-- **Edit logic/chat**: modifikasi class di `app.py`
-
----
+## LINK DEPLOY
+https://netflixfilmrecommendation.streamlit.app/
 
 ## API Key
 - Untuk fitur AI bebas, daftar gratis di [OpenRouter](https://openrouter.ai/)
