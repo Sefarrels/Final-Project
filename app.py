@@ -362,6 +362,7 @@ def start_new_chat(initial_prompt=None):
 # ===============================
 # 6. Sidebar & Mode selector
 # ===============================
+st.sidebar.image("images/netflix_logo.png", width=120)
 st.sidebar.title("⚙️ Pilih Mode Aplikasi")
 mode = st.sidebar.radio("Mode", ["💬 Chatbot AI", "🎬 Rekomendasi Film"])
 
